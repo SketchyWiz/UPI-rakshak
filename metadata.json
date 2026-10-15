@@ -1,0 +1,6 @@
+{
+  "name": "UPI RAKSHA AI — Executive Command Center",
+  "description": "Pre-PIN Sovereign Intercept & Real-Time UPI Fraud Defense Command Center for NPCI & PSP Switches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
